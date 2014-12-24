@@ -1,0 +1,454 @@
+#An essay on the use of celestial and terrestrial globes; exemplified in a greater variety of problems, than are to be found in any other work; exhibiting the general principles of dialing & navigation. / By the late George Adams, mathematical instrument maker to His Majesty, and optician to the Prince of Wales.#
+
+##Adams, George, 1720-1773.##
+An essay on the use of celestial and terrestrial globes; exemplified in a greater variety of problems, than are to be found in any other work; exhibiting the general principles of dialing & navigation. / By the late George Adams, mathematical instrument maker to His Majesty, and optician to the Prince of Wales.
+Adams, George, 1720-1773.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N27/N27580.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N27/N27580.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2004-11__ __TCP__ *Assigned for keying and markup*
+1. __2005-10__ __AEL Data (Chennai)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2006-04__ __Olivia Bottum__ *Sampled and proofread*
+1. __2006-04__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2006-09__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. PREFACE
+
+1. CONTENTS.
+
+#####Body#####
+
+1. PART I. A TREATISE ON THE USE OF THE TERRESTRIAL & CELESTIAL GLOBES.
+
+1. PART II. CONTAINING A DESCRIPTION OF THE GLOBES MOUNTED IN THE BEST MANNER; TOGETHER WITH SOME PRELIMINARY DEFINITIONS.
+
+    _ DEFINITIONS.
+
+    _ DESCRIPTION OF THE GLOBES.
+
+    _ A DESCRIPTION OF THE CIRCLES DESCRIBED ON THE BROAD PAPER CIRCLE B C; TOGETHER WITH A GENERAL ACCOUNT OF IT'S USES.
+
+    _ OF SOME OF THE CIRCLES THAT ARE DESCRIBED UPON THE SURFACE OF EACH GLOBE.
+
+1. PART III. THE USE OF THE TERRESTRIAL GLOBE, MOUNTED IN THE BEST MANNER.
+
+    _ OF LONGITUDE AND LATITUDE, OF TERRESTRIAL MERIDIANS, AND THE PROBLEMS RELATING TO LONGITUDE AND LATITUDE.
+
+      * PROBLEM I.
+
+      * PROBLEM II.
+
+      * PROBLEM III.
+
+      * PROBLEM IV.
+
+      * PROBLEM V.
+
+    _ OF LATITUDE.
+
+      * PROBLEM VI.
+
+      * PROBLEM VII.
+
+      * PROBLEM VIII.
+
+      * PROBLEM IX.
+
+    _ OF FINDING THE LONGITUDE.
+
+    _ LENGTH OF THE DEGREES OF LONGITUDE.
+
+      * PROBLEM X.
+
+      * PROBLEM XI.
+
+      * PROBLEM XII.
+
+    _ OF THE TWILIGHT.
+
+    _ OF THE DIURNAL MOTION OF THE EARTH, AND THE PROBLEMS DEPENDING ON THAT MOTION.
+
+    _ TO RECTIFY THE TERRESTRIAL GLOBE.
+
+      * PROBLEM XIII.
+
+      * PROBLEM XIV.
+
+      * PROBLEM XV.
+
+    _ OF THE ARTIFICIAL OR TERRESTRIAL HORIZON.
+
+      * PROBLEM XVI.
+
+      * PROBLEM XVII.
+
+      * PROBLEM XVIII.
+
+      * PROBLEM XIX.
+
+    _ OF THE ANCIENT DIVISIONS OF THE EARTH INTO ZONES AND CLIMATES.
+
+      * PROBLEM XX.
+
+    _ ZONES.
+
+    _ OF THE ANCIENT DISTINCTION OF PLACES, BY THE DIVERSITY OF SHADOWS OF UPRIGHT BODIES AT NOON.
+
+      * PROBLEM XXI.
+
+    _ OF ANCIENT DISTINCTIONS FROM SITUATION.
+
+      * PROBLEM XXII.
+
+      * PROBLEM XXIII.
+
+    _ OF PROBLEMS PECULIAR TO THE SUN.
+
+      * PROBLEM XXIV.
+
+      * PROBLEM XXV.
+
+      * PROBLEM XXVI.
+
+      * PROBLEM XXVII.
+
+      * PROBLEM XXVIII.
+
+      * PROBLEM XXIX.
+
+      * PROBLEM XXX.
+
+      * PROBLEM XXXI.
+
+      * PROBLEM XXXII.
+
+      * PROBLEM XXXIII.
+
+      * PROBLEM XXXIV.
+
+    _ When the sun does not shine bright enough to cast a shadow.
+
+      * PROBLEM XXXV.
+
+      * PROBLEM XXXVI.
+
+      * PROBLEM XXXVII.
+
+Method 1.
+
+Method II.
+
+      * PROBLEM XXXVIII.
+
+      * PROBLEM XXXIX.
+
+1st, By a natural stile.
+
+2dly, By an artificial stile.
+
+3dly, Without any stile at all.
+
+4thly, Peculiar to the inhabitants of London, and any place within the distance of sixty miles from it.
+
+      * COROLLARY.
+
+    _ THE GENERAL PRINCIPLES OF DIALLING ILLUSTRATED BY THE TERRESTRIAL GLOBE.
+
+      * PROBLEM XL.
+
+      * PROBLEM XLI.
+
+      * PROBLEM XLII.
+
+      * To find the distance of this line from that of twelve.
+
+    _ NAVIGATION EXPLAINED BY THE Globe.
+
+      * PROBLEM XLIII.
+
+      * PROBLEM XLIV.
+
+      * PROBLEM XLV.
+
+      * PROBLEM XLVI.
+
+      * PROBLEM XLVII.
+
+      * PROBLEM XLVIII.
+
+    _ OF THE USE OF THE TERRESTRIAL GLOBE, WHEN MOUNTED IN THE COMMON MANNER.
+
+      * PROBLEM I.
+
+      * PROBLEM II.
+
+      * PROBLEM III.
+
+      * PROBLEM IV.
+
+      * PROBLEM V.
+
+      * PROBLEM VI.
+
+      * PROBLEM VII.
+
+      * PROBLEM VIII.
+
+      * PROBLEM IX.
+
+      * PROBLEM X.
+
+      * PROBLEM XI.
+
+      * PROBLEM XII.
+
+      * PROBLEM XIII.
+
+1. PART IV. OF THE USE OF THE CELESTIAL GLOBE.
+
+    _ OF THE PRECESSION OF THE EQUINOXES.
+
+      * PROBLEM I.
+
+    _ OF THE USE OF THE CELESTIAL GLOBE, IN THE SOLUTION OF PROBLEMS RELATIVE TO THE SUN.
+
+      * PROBLEM II.
+
+      * PROBLEM III.
+
+      * PROBLEM IV.
+
+      * PROBLEM V.
+
+      * PROBLEM VI.
+
+      * PROBLEM VII.
+
+      * PROBLEM VIII.
+
+      * PROBLEM IX.
+
+      * PROBLEM X.
+
+    _ OF THE EQUATION OF TIME.
+
+      * PROBLEM XI.
+
+    _ THE USE OF THE CELESTIAL GLOBE, IN PROBLEMS RELATIVE TO THE FIXED STARS.
+
+      * PROBLEM XII.
+
+      * PROBLEM XIII.
+
+      * PROBLEM XIV.
+
+      * PROBLEM XV.
+
+      * PROBLEM XVI.
+
+      * PROBLEM XVII.
+
+      * PROBLEM XVIII.
+
+      * PROBLEM XIX.
+
+    _ OF PROBLEMS RELATING TO THE AZIMUTH, &c. OF THE SUN AND STARS.
+
+      * PROBLEM XX.
+
+      * PROBLEM XXI.
+
+    _ OF THE AZIMUTHAL OR VERTICAL CIRCLES.
+
+      * PROBLEM XXII.
+
+      * PROBLEM XXIII.
+
+      * PROBLEM XXIV.
+
+      * PROBLEM XXV.
+
+      * PROBLEM XXVI.
+
+      * PROBLEM XXVII.
+
+      * PROBLEM XXVIII.
+
+      * PROBLEM XXIX.
+
+      * PROBLEM XXX.
+
+      * PROBLEM XXXI.
+
+      * PROBLEM XXXII.
+
+      * PROBLEM XXXIII.
+
+      * OBSERVATION.
+
+      * DEFINITION.
+
+      * PROBLEM XXXIV.
+
+      * DEFINITION.
+
+      * PROBLEM XXXV.
+
+      * DEFINITION.
+
+      * PROBLEM XXXVI.
+
+      * DEFINITION.
+
+      * PROBLEM XXXVII.
+
+    _ OF THE CORRESPONDENCE OF THE CELESTIAL AND TERRESTRIAL SPHERES.
+
+    _ A GENERAL DESCRIPTION OF THE PASSAGE OF THE STAR MARKED γ IN THE HEAD OF THE CONSTELLATION DRACO, OVER THE PARALLEL OF LONDON.
+
+    _ OF THE USE OF THE CELESTIAL GLOBE, IN PROBLEMS RELATIVE TO THE PLANETS.
+
+      * PROBLEM XXXVIII.
+
+      * PROBLEM XXXIX.
+
+      * PROBLEM XL.
+
+    _ OF THE USE OF THE CELESTIAL GLOBE, IN PROBLEMS RELATIVE TO THE MOON.
+
+      * PROBLEM XLI.
+
+      * PROBLEM XLII.
+
+      * PROBLEM XLIII.
+
+      * PROBLEM XLIV.
+
+      * PROBLEM XLV.
+
+      * To find the time of high water at the same place.
+
+      * PROBLEM XLVI.
+
+      * PROBLEM XLVII.
+
+      * PROBLEM XLVIII.
+
+      * PROBLEM XLIX.
+
+      * PROBLEM L.
+
+      * PROBLEM LI.
+
+      * PROBLEM LII.
+
+      * PROBLEM LIII.
+
+      * PROBLEM LIV.
+
+**Types of content**
+
+  * There are 27 **verse** lines!
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 13 **ommitted** fragments! 
+ @__reason__ (13) : illegible: indecipherable (13)  •  @__extent__ (13) : 1 letter (10), 1 word (2), 2 letters (1)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|½° ¾¼|189 176 160 190 188|
+|Greek|δβγηαΦμν|948 946 947 951 945 934 956 957|
+|GreekandCoptic|δβγηαΦμν|948 946 947 951 945 934 956 957|
+|General Punctuation|—•′|8212 8226 8242|
+|Geometric Shapes|◊▪|9674 9642|
+|Miscellaneous Symbols|☉♉♋♑♈♎♒♊♌♍♏♐♓|9737 9801 9803 9809 9800 9806 9810 9802 9804 9805 9807 9808 9811|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|4||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2007-01 (1)|
+|6.|__edition__|1||
+|7.|__editionStmt__|1||
+|8.|__editorialDecl__|1||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|4||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|4||
+|2.|__bibl__|1||
+|3.|__cell__|1033| @__role__ (29) : label (29)  •  @__rows__ (2) : 2 (2)|
+|4.|__desc__|13||
+|5.|__div__|168| @__type__ (168) : illustration (1), title_page (1), preface (1), table_of_contents (1), part (4), definitions (1), description (3), section (26), problem (118), method (2), condition (4), corollary (1), observation (1), definition (4)  •  @__n__ (125) : 1 (6), 2 (6), 3 (5), 4 (5), 5 (3), 6 (3), 7 (3), 8 (4), 9 (3), 10 (3), 11 (3), 12 (3), 13 (2), 14 (2), 15 (2), 16 (2), 17 (2), 18 (2), 19 (2), 20 (2), 21 (2), 22 (2), 23 (2), 24 (2), 25 (2), 26 (2), 27 (2), 28 (2), 29 (2), 30 (2), 31 (2), 32 (2), 33 (2), 34 (2), 35 (2), 36 (2), 37 (2), 38 (2), 39 (2), 40 (2), 41 (2), 42 (2), 43 (2), 44 (2), 45 (2), 46 (2), 47 (2), 48 (2), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1)|
+|6.|__figure__|2||
+|7.|__g__|895| @__ref__ (895) : char:EOLhyphen (890), char:punc (5)|
+|8.|__gap__|13| @__reason__ (13) : illegible: indecipherable (13)  •  @__extent__ (13) : 1 letter (10), 1 word (2), 2 letters (1)|
+|9.|__head__|293| @__type__ (1) : sub (1)|
+|10.|__hi__|235| @__rend__ (1) : sup (1)|
+|11.|__item__|124||
+|12.|__l__|27||
+|13.|__lg__|4||
+|14.|__list__|4||
+|15.|__note__|19| @__n__ (19) : * (18), † (1)  •  @__place__ (19) : bottom (19)|
+|16.|__p__|838| @__n__ (11) : 1 (5), 2 (3), 3 (2), 4 (1)|
+|17.|__pb__|241| @__facs__ (241) : tcp:036757_0000_100B04B75EF32820 (1), tcp:036757_0001_100ADB01AC5F6FA0 (1), tcp:036757_0002_100ADB4A6BA35360 (1), tcp:036757_0003_100ADB4D3261A0F8 (1), tcp:036757_0004_100ADB4EE4E86510 (1), tcp:036757_0005_100B04086B4A0800 (1), tcp:036757_0006_100B040A38577640 (1), tcp:036757_0007_100B040C2BB05768 (1), tcp:036757_0008_100B040E1E6FB7B0 (1), tcp:036757_0009_100B041021666658 (1), tcp:036757_0010_100B0411DD9E69A8 (1), tcp:036757_0011_100B041443B3B548 (1), tcp:036757_0012_100B04162C668808 (1), tcp:036757_0013_100B0418651A2F28 (1), tcp:036757_0014_100B041A3845C300 (1), tcp:036757_0015_100B041D1AD650C8 (1), tcp:036757_0016_100B041F11192AB0 (1), tcp:036757_0017_100B0420A5E460E0 (1), tcp:036757_0018_100B04224D01F4C0 (1), tcp:036757_0019_100B0424A3A47748 (1), tcp:036757_0020_100B042690787610 (1), tcp:036757_0021_100B04281E0C65E8 (1), tcp:036757_0022_100B042AB5C77C90 (1), tcp:036757_0023_100B042CAB27CA60 (1), tcp:036757_0024_100B042E371AD790 (1), tcp:036757_0025_100B0430746573C0 (1), tcp:036757_0026_100B04322454E358 (1), tcp:036757_0027_100B04355F754C88 (1), tcp:036757_0028_100B0436ECB55BB8 (1), tcp:036757_0029_100B04387B26A788 (1), tcp:036757_0030_100B043AD778A2F0 (1), tcp:036757_0031_100B043CC7BDFAB8 (1), tcp:036757_0032_100B043F206939D8 (1), tcp:036757_0033_100B04413B98FD10 (1), tcp:036757_0034_100B0442CEF792D0 (1), tcp:036757_0035_100B04452CE4D7F8 (1), tcp:036757_0036_100B04478F924C30 (1), tcp:036757_0037_100B0449235F7738 (1), tcp:036757_0038_100B044B86912AE8 (1), tcp:036757_0039_100B044DD730DFD8 (1), tcp:036757_0040_100B044F63D47088 (1), tcp:036757_0041_100B0451769023C0 (1), tcp:036757_0042_100B04530E4A5728 (1), tcp:036757_0043_100B0455C757BAF0 (1), tcp:036757_0044_100B045753192900 (1), tcp:036757_0045_100B0458E0624880 (1), tcp:036757_0046_100B045B00450BC8 (1), tcp:036757_0047_100B045D4D72BBD8 (1), tcp:036757_0048_100B045ED7CB0C98 (1), tcp:036757_0049_100B0460CA45B320 (1), tcp:036757_0050_100B0462E4919280 (1), tcp:036757_0051_100B0465A5CF4A70 (1), tcp:036757_0052_100B046732BAE488 (1), tcp:036757_0053_100B04692EBE6670 (1), tcp:036757_0054_100B046AE8F91320 (1), tcp:036757_0055_100B046CE3B576D8 (1), tcp:036757_0056_100B046F78E863D0 (1), tcp:036757_0057_100B04711820BA30 (1), tcp:036757_0058_100B047325135540 (1), tcp:036757_0059_100B047597A2F6E0 (1), tcp:036757_0060_100B04772552CB58 (1), tcp:036757_0061_100B047991AAA8C8 (1), tcp:036757_0062_100B047B226AEDA8 (1), tcp:036757_0063_100B047D180E0138 (1), tcp:036757_0064_100B047FA472EEC0 (1), tcp:036757_0065_100B0481A0608748 (1), tcp:036757_0066_100B04839A588D78 (1), tcp:036757_0067_100B0485F551D378 (1), tcp:036757_0068_100B0487E54872E8 (1), tcp:036757_0069_100B048982C6A9B0 (1), tcp:036757_0070_100B048BEAB570F0 (1), tcp:036757_0071_100B048DDE541D48 (1), tcp:036757_0072_100B0490B10BE498 (1), tcp:036757_0073_100B049242BB9D90 (1), tcp:036757_0074_100B049435421820 (1), tcp:036757_0075_100B0496E5AE0EA0 (1), tcp:036757_0076_100B0498715AD3A0 (1), tcp:036757_0077_100B049A2E74EDD8 (1), tcp:036757_0078_100B049C6CEF99E0 (1), tcp:036757_0079_100B049F26A94EF0 (1), tcp:036757_0080_100B04A0B226AB38 (1), tcp:036757_0081_100B04A281565C88 (1), tcp:036757_0082_100B04A4AE956658 (1), tcp:036757_0083_100B04A70224B4C0 (1), tcp:036757_0084_100B04A8ECE90260 (1), tcp:036757_0085_100B04AA7A076C48 (1), tcp:036757_0086_100B04AD010BB340 (1), tcp:036757_0087_100B04AEED69F618 (1), tcp:036757_0088_100B04B078B84768 (1), tcp:036757_0089_100B04B2B4F75B50 (1), tcp:036757_0090_100B04B48CDA3CC8 (1), tcp:036757_0091_100ADB001EC61CE0 (1), tcp:036757_0092_100B04B8EA8D4F80 (1), tcp:036757_0093_100B04BA76CF8E20 (1), tcp:036757_0094_100B04BCA3D7CBE8 (1), tcp:036757_0095_100B04BF2096CDD0 (1), tcp:036757_0096_100B04C184E518F8 (1), tcp:036757_0097_100B04C30FD04378 (1), tcp:036757_0098_100B0582F5CD3950 (1), tcp:036757_0099_100ADB0EDEBA8BF0 (1), tcp:036757_0100_100B04C5DC4BC258 (1), tcp:036757_0101_100B04C82E9E3828 (1), tcp:036757_0102_100B04C9BB1C9D38 (1), tcp:036757_0103_100B04CC28CC61B8 (1), tcp:036757_0104_100B04CEA2F088C8 (1), tcp:036757_0105_100B04D094638F08 (1), tcp:036757_0106_100B04D2F1AD02B0 (1), tcp:036757_0107_100ADB078A0DA390 (1), tcp:036757_0108_100B04D496BB9098 (1), tcp:036757_0109_100B04D70421FBC0 (1), tcp:036757_0110_100B04D95722F170 (1), tcp:036757_0111_100B04DB4C02B500 (1), tcp:036757_0112_100B04DCF4FF13E0 (1), tcp:036757_0113_100B04DF0AD289D0 (1), tcp:036757_0114_100B04E15C6F7310 (1), tcp:036757_0115_100B04E2E9681900 (1), tcp:036757_0116_100B04E477D8FF40 (1), tcp:036757_0117_100B04E6DF174A20 (1), tcp:036757_0118_100B04E86A98E458 (1), tcp:036757_0119_100B04EA572CB188 (1), tcp:036757_0120_100B04EC87191F98 (1), tcp:036757_0121_100B04EE5DF290A0 (1), tcp:036757_0122_100B04F0B778A730 (1), tcp:036757_0123_100B04F2A7C745F8 (1), tcp:036757_0124_100B04F4343DAC28 (1), tcp:036757_0125_100B04F5DB53D980 (1), tcp:036757_0126_100B04F9484DFA00 (1), tcp:036757_0127_100B04FAD401C7C8 (1), tcp:036757_0128_100B04FC5ECAA120 (1), tcp:036757_0129_100B04FF2A633628 (1), tcp:036757_0130_100B0501182BA328 (1), tcp:036757_0131_100B05036FABD798 (1), tcp:036757_0132_100B050500271000 (1), tcp:036757_0133_100B0506A29A3B08 (1), tcp:036757_0134_100B0508FA7057A8 (1), tcp:036757_0135_100B050B4E3BBCE0 (1), tcp:036757_0136_100B050D02E6EF68 (1), tcp:036757_0137_100B050E8F3B23B0 (1), tcp:036757_0138_100B0510F0211F08 (1), tcp:036757_0139_100B051343570E88 (1), tcp:036757_0140_100B0514F6970D48 (1), tcp:036757_0141_100B0518B57EDEB8 (1), tcp:036757_0142_100B051B11DC53A0 (1), tcp:036757_0143_100B051D033A2818 (1), tcp:036757_0144_100B051EFB452FF0 (1), tcp:036757_0145_100B05216B24D0A8 (1), tcp:036757_0146_100B0523692DC750 (1), tcp:036757_0147_100B052556D48350 (1), tcp:036757_0148_100B0526E39E0AC0 (1), tcp:036757_0149_100B0528819F2D28 (1), tcp:036757_0150_100B052AEEA23B80 (1), tcp:036757_0151_100B052CDD27BEC0 (1), tcp:036757_0152_100B052EB408B978 (1), tcp:036757_0153_100B053051F9A388 (1), tcp:036757_0154_100B0532A9B77D38 (1), tcp:036757_0155_100B053435C23118 (1), tcp:036757_0156_100B053630D1F878 (1), tcp:036757_0157_100B053861A36788 (1), tcp:036757_0158_100B053A5B304038 (1), tcp:036757_0159_100B053C53659F38 (1), tcp:036757_0160_100B053DE4E1AA68 (1), tcp:036757_0161_100B05402C2B6368 (1), tcp:036757_0162_100B0542F644A3A0 (1), tcp:036757_0163_100B054486BD8A48 (1), tcp:036757_0164_100B05464552BF48 (1), tcp:036757_0165_100B0548E4A72208 (1), tcp:036757_0166_100B054AE08B6FA8 (1), tcp:036757_0167_100B054CE05F0490 (1), tcp:036757_0168_100B054F2125FA28 (1), tcp:036757_0169_100B0551167C5900 (1), tcp:036757_0170_100B0552A1D79300 (1), tcp:036757_0171_100B05551A2FDF68 (1), tcp:036757_0172_100B0556B22B23C0 (1), tcp:036757_0173_100B0558D2926118 (1), tcp:036757_0174_100B055BF75C7088 (1), tcp:036757_0175_100B055DF6474380 (1), tcp:036757_0176_100B055F87D22E98 (1), tcp:036757_0177_100B05621A16DD10 (1), tcp:036757_0178_100B05640F815C40 (1), tcp:036757_0179_100B0566A860E618 (1), tcp:036757_0180_100B0568864FB518 (1), tcp:036757_0181_100B056A1BDE9520 (1), tcp:036757_0182_100B056C81655878 (1), tcp:036757_0183_100B056EDA379028 (1), tcp:036757_0184_100B05706F56A318 (1), tcp:036757_0185_100B057318051410 (1), tcp:036757_0186_100B0575971A69D8 (1), tcp:036757_0187_100B057722DE1A08 (1), tcp:036757_0188_100B0578B3473E38 (1), tcp:036757_0189_100B057B1BB907D8 (1), tcp:036757_0190_100B057CA7A3EF18 (1), tcp:036757_0191_100B057F0BD52108 (1), tcp:036757_0192_100B0580FB22FE08 (1), tcp:036757_0193_100ADB04265C1D38 (1), tcp:036757_0194_100B05854BEA7DC8 (1), tcp:036757_0195_100B058749D7A358 (1), tcp:036757_0196_100B0588F6A94940 (1), tcp:036757_0197_100B058A9B8F9290 (1), tcp:036757_0198_100B05CE22A070E0 (1), tcp:036757_0199_100B058CF421B400 (1), tcp:036757_0200_100B058F692AF4A8 (1), tcp:036757_0201_100B0590F52F5B40 (1), tcp:036757_0202_100B0593595E85A8 (1), tcp:036757_0203_100B0594E44D9C10 (1), tcp:036757_0204_100B059737A22448 (1), tcp:036757_0205_100B0598F04DEBC8 (1), tcp:036757_0206_100B059A8AA3E080 (1), tcp:036757_0207_100B059D68B1B1B0 (1), tcp:036757_0208_100B059EF54CED90 (1), tcp:036757_0209_100B05A0AE857C20 (1), tcp:036757_0210_100B05A24AF39AA8 (1), tcp:036757_0211_100B05A4A38D8060 (1), tcp:036757_0212_100B05A700907860 (1), tcp:036757_0213_100B05A89A94BBB8 (1), tcp:036757_0214_100B05AA28782738 (1), tcp:036757_0215_100B05ACEFA6C6B8 (1), tcp:036757_0216_100B05AEE1B02158 (1), tcp:036757_0217_100B05B06E16B8A8 (1), tcp:036757_0218_100B05B28820F2A8 (1), tcp:036757_0219_100B05B4E2539130 (1), tcp:036757_0220_100B05B6D95A2C60 (1), tcp:036757_0221_100B05B8A8000550 (1), tcp:036757_0222_100B05BB62557590 (1), tcp:036757_0223_100B05BEB947F890 (1), tcp:036757_0224_100B05C04AF636A0 (1), tcp:036757_0225_100B05C1DFB12CA8 (1), tcp:036757_0226_100B05C434B433E8 (1), tcp:036757_0227_100B05C5C747EC10 (1), tcp:036757_0228_100B05C82B4A13B8 (1), tcp:036757_0229_100B05CA35532B38 (1), tcp:036757_0230_100B05CBC7A20290 (1), tcp:036757_0231_100ADB0A73C6E200 (1), tcp:036757_0232_100B05D072294B18 (1), tcp:036757_0233_100B05D2027F05D8 (1), tcp:036757_0234_100B05D3B639CA48 (1), tcp:036757_0235_100B05D6E52B6180 (1), tcp:036757_0236_100B05D871F19948 (1), tcp:036757_0237_100B05DA17EEB968 (1), tcp:036757_0238_100B05DC8B8EA228 (1), tcp:036757_0239_100B05DFDD532420 (1), tcp:036757_0240_100B05E1689DC038 (1)  •  @__n__ (233) : ii (1), iv (1), v (1), vi (1), vii (1), viii (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (2), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1), 228 (1), 229 (1), 230 (1), 231 (1), 322 (1), 233 (1), 234 (1), 235 (1), 236 (1), 237 (1), 238 (1)|
+|18.|__q__|1||
+|19.|__row__|206||
+|20.|__table__|11||
